@@ -15,11 +15,14 @@ dependencies:
   fwfh_just_audio: ^0.6.2+2
   fwfh_selectable_text: ^0.8.3+1
   fwfh_svg: 
-    path: ../fwfh_svg
+    git:
+      url: https://github.com/cikalT/flutter-fwfh-svg
   fwfh_url_launcher: 
-    path: ../fwfh_url_launcher
+    git:
+      url: https://github.com/cikalT/flutter-fwfh-url-launcher
   fwfh_webview: 
-    path: ../fwfh_webview
+    git:
+      url: https://github.com/cikalT/flutter-fwfh-webview
   html: ^0.15.0
 dev_dependencies:
   file:
